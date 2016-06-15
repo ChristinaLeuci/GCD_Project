@@ -7,9 +7,10 @@
 |-------------|--------------------|
 |Subject      | Range 1-30|
 |Activity     |<p>Standing</p><p>Laying</p><p>Walking</p><p>Walking Downstairs</p><p>Walking Upstirs</p> |
+|-------------|--------------------|
+|Measurements |--------------------|
+|Time Body Acc mean()X| S9(1)V9(15)|
 
-(Measurements)
-Time Body Acc mean() X				S9(1)V9(15)
 Time Body Acc mean() Y				   ...
 Time Body Acc mean() Z				repeat for all
 Time Gravity Acc mean() X
