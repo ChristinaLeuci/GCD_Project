@@ -6,7 +6,7 @@
 |VARIABLE NAME|VALUE OR EXPLANATION|
 |-------------|--------------------|
 |Subject      | Range 1-30|
-|Activity     |<ul><li>Standing</li><li>Laying</li><li>Walking</li><li>Walking Downstairs</li><li>Walking Upstirs</li></ul> |
+|Activity     |<p>Standing</p><p>Laying</p><p>Walking</p><p>Walking Downstairs</p><p>Walking Upstirs</p> |
 
 (Measurements)
 Time Body Acc mean() X				S9(1)V9(15)
