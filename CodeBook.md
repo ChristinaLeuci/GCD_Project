@@ -1,16 +1,12 @@
 #CODE BOOK
 
-##File: tidy_data.txt
-###180 observations of 68 variables
+#####File: tidy_data.txt
+#####180 observations of 68 variables
 
 |VARIABLE NAME|VALUE OR EXPLANATION|
 |-------------|--------------------|
 |Subject      | Range 1-30|
-|Activity     | Standing|
-|             | Laying|
-|             | Walking|
-|             | Walking Downstairs|
-|             | Walking Upstirs|
+|Activity     |<ul><li>Standing</li><li>Laying</li><li>Walking</li><li>Walking Downstairs</li><li>Walking Upstirs</li></ul> |
 
 (Measurements)
 Time Body Acc mean() X				S9(1)V9(15)
