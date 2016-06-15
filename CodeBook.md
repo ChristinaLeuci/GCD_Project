@@ -7,8 +7,9 @@
 |-------------|--------------------|
 |Subject      | Range 1-30|
 |Activity     |<p>Standing</p><p>Laying</p><p>Walking</p><p>Walking Downstairs</p><p>Walking Upstirs</p> |
-|-------------|--------------------|
-|Measurements |--------------------|
+
+<p>Measurements</p>
+
 |Time Body Acc mean()X| S9(1)V9(15)|
 
 Time Body Acc mean() Y				   ...
